@@ -1,0 +1,7 @@
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\AtividadeProduto\AtividadeProduto\bin\Debug\AtividadeProduto.exe.config
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\AtividadeProduto\AtividadeProduto\bin\Debug\AtividadeProduto.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\AtividadeProduto\AtividadeProduto\bin\Debug\AtividadeProduto.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\AtividadeProduto\AtividadeProduto\obj\Debug\AtividadeProduto.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\AtividadeProduto\AtividadeProduto\obj\Debug\AtividadeProduto.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\AtividadeProduto\AtividadeProduto\obj\Debug\AtividadeProduto.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\AtividadeProduto\AtividadeProduto\obj\Debug\AtividadeProduto.pdb
