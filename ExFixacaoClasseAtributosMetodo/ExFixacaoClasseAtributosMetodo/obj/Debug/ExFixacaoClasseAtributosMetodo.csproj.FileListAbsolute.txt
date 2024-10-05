@@ -1,0 +1,7 @@
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\ExFixacaoClasseAtributosMetodo\ExFixacaoClasseAtributosMetodo\bin\Debug\ExFixacaoClasseAtributosMetodo.exe.config
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\ExFixacaoClasseAtributosMetodo\ExFixacaoClasseAtributosMetodo\bin\Debug\ExFixacaoClasseAtributosMetodo.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\ExFixacaoClasseAtributosMetodo\ExFixacaoClasseAtributosMetodo\bin\Debug\ExFixacaoClasseAtributosMetodo.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\ExFixacaoClasseAtributosMetodo\ExFixacaoClasseAtributosMetodo\obj\Debug\ExFixacaoClasseAtributosMetodo.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\ExFixacaoClasseAtributosMetodo\ExFixacaoClasseAtributosMetodo\obj\Debug\ExFixacaoClasseAtributosMetodo.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\ExFixacaoClasseAtributosMetodo\ExFixacaoClasseAtributosMetodo\obj\Debug\ExFixacaoClasseAtributosMetodo.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\ExFixacaoClasseAtributosMetodo\ExFixacaoClasseAtributosMetodo\obj\Debug\ExFixacaoClasseAtributosMetodo.pdb
