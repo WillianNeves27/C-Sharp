@@ -1,0 +1,7 @@
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\Boletim\Boletim\bin\Debug\Boletim.exe.config
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\Boletim\Boletim\bin\Debug\Boletim.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\Boletim\Boletim\bin\Debug\Boletim.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\Boletim\Boletim\obj\Debug\Boletim.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\Boletim\Boletim\obj\Debug\Boletim.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\Boletim\Boletim\obj\Debug\Boletim.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\Boletim\Boletim\obj\Debug\Boletim.pdb
