@@ -1,0 +1,7 @@
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\SalarioFuncionario\SalarioFuncionario\bin\Debug\SalarioFuncionario.exe.config
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\SalarioFuncionario\SalarioFuncionario\bin\Debug\SalarioFuncionario.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\SalarioFuncionario\SalarioFuncionario\bin\Debug\SalarioFuncionario.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.exe
+C:\Users\willi\OneDrive\Área de Trabalho\aulasC#\SalarioFuncionario\SalarioFuncionario\obj\Debug\SalarioFuncionario.pdb
